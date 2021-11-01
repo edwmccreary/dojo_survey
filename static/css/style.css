@@ -1,0 +1,24 @@
+.space_around {
+    display: flex;
+    justify-content: space-around;
+}
+
+.flex {
+    display: flex;
+}
+
+.survey {
+    position: relative;
+    border: 3px solid black;
+    width: 500px;
+    min-height: 300px;
+    padding: 20px;
+    margin: 20px;
+    word-wrap: break-word;
+}
+
+.bottom-right {
+    position:absolute;
+    bottom:20px;
+    right:20px;
+}
